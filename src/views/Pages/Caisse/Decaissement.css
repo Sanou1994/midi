@@ -1,0 +1,7 @@
+.btn-outline-danger {
+    color: #f86c6b;
+    border-color: #f86c6b;
+}
+#txtoperation, #txtoperateur, #commission, #reference, #montant{
+    color: black;
+}
